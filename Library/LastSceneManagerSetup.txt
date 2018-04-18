@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/AHatOfCandy.unity
+  isLoaded: 1
+  isActive: 1
